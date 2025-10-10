@@ -2,10 +2,6 @@
 
 ### Lifelong Learner | Undergraduate  
 
-<!-- Profile picture -->
-![Profile Picture](https://github.com/your-username.png)
-
----
 
 ###  About Me  
 I’m an **undergraduate student** passionate about learning, building, and exploring new technologies.  
