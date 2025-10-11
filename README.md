@@ -1,6 +1,6 @@
 # 🌼 Hi, I'm Praveena  
 
-### Lifelong Learner | Undergraduate  
+### Web Development | Undergraduate  
 
 
 ###  About Me  
