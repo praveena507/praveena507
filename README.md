@@ -1,6 +1,6 @@
 # 🌼 Hi, I'm Praveena  
 
-### Web Development | Undergraduate  
+### Undergraduate  
 
 
 ###  About Me  
